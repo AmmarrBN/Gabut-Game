@@ -6,6 +6,7 @@ Termux Game
   <a href="https://github.com/AmmarrBN"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Jangan+Lupa+Follow+Sama+Kasi+Star";Subscribe+Channel+Ammar - Executed alt="UwU">
 </p>
 
+
 <details open>
   <summary><strong> Install Package + Run Script </strong></summary>
 
@@ -19,6 +20,7 @@ Termux Game
   bash module.sh
   python game.py
   ```
+
   </details>
 
 
@@ -33,7 +35,8 @@ Termux Game
 ---------
 
 ## ```Thx For 🐾```
-[![kannachann](https://github.com/termux.png?size=100)](https://github.com/termux)
+[![Termux](https://github.com/termux.png?size=100)](https://github.com/termux)
+Termux Developer
 
 > SUBSCRIBE MY CHANNEL >_<
 
