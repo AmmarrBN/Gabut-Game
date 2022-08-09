@@ -33,8 +33,8 @@ Termux Game
 ---------
 
 ## ```Thx For 🐾```
-[![kannachann](https://github.com/termux.png?size=100)](https://github.com/termux)
-
+[![Termux](https://github.com/termux.png?size=100)](https://github.com/termux)
+Termux Developer
 > SUBSCRIBE MY CHANNEL >_<
 
 [![](https://img.shields.io/static/v1?logo=youtube&label=subscribe&message=Ammar%20Executed&color=green)](https://youtube.com/channel/UCyyIDnXYJlRI_-2pAQqKr0g)
